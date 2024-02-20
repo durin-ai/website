@@ -5,7 +5,7 @@ title: Durin
 url: "https://durin-ai.github.io/website/"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: AIzaSyAKG6Ln3lZT3nW7J7rR2REDcgTFfE82pKg
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: America/Los_Angeles
 
 collections:
   staff_members:
